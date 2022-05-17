@@ -1,7 +1,7 @@
 {
   "name": "kompiz",
   "version": "0.1.0",
-  "description": "Library template",
+  "description": "Tiny library for creating stateful components using vanilla Javascript",
   "main": "index.js",
   "scripts": {
     "test": "jest --watch",
