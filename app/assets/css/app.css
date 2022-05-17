@@ -1,0 +1,23 @@
+*, html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  margin: 0;
+  line-height: 1.6;
+  color: #28293F;
+  background-color: #FAF7F1;
+  text-align: center;
+}
+
+.component {
+  background: white;
+  padding: 1rem;
+  margin: 1rem 0;
+  border: 1px solid #ccccaa;
+  border-radius: 5px;
+}

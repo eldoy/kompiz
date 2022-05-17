@@ -1,0 +1,19 @@
+{
+  "name": "kompiz",
+  "version": "0.1.0",
+  "description": "Library template",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch",
+    "dev": "WAVEORB_PORT=5500 nodemon -e js,mjs,json,yml,css,md -i dist -x waveorb serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eldoy/kompiz"
+  },
+  "author": "Vidar Eldøy <vidar@eldoy.com>",
+  "license": "WTFPL",
+  "devDependencies": {
+    "waveorb": "^0.30.10"
+  }
+}
